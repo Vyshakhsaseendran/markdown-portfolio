@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*hi iam vyshakh*
+_second year IT student_
+
+**COLLAGE OF THALASSERY**
+
+
+_HI**Guys** how are you_
